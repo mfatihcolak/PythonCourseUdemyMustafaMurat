@@ -1,0 +1,5 @@
+karius,beşiktaş
+gökhan töre,beşiktaş
+caner erkin,beşiktaş
+umut bulut,beşiktaş
+oğuzhan,beşiktaş

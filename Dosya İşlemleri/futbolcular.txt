@@ -1,0 +1,21 @@
+fernando muslerera,galatasaray
+ömer bayram,galatasaray
+kaan arslan,galatasaray
+semih kaya,galatasaray
+ferdi kadıoğlu,fenerbahçe
+irfan can,fenerbahçe
+arda güler,fenerbahçe
+ozan tufan,fenerbahçe
+diego rossi,fenerbahçe
+arda turan,galatasaray
+emre kılınç,galatasaray
+mergim berisha,fenerbahçe
+diego rossi,fenerbahçe
+ryan babel,galatasaray
+karius,beşiktaş
+gökhan töre,beşiktaş
+caner erkin,beşiktaş
+umut bulut,beşiktaş
+oğuzhan,beşiktaş
+kerem aktürkoğlu,galatasaray
+mustafa mohammed,galatasaray
